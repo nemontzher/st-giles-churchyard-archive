@@ -1,2 +1,5 @@
 RecordID,LastName,FirstName,BirthYear,DeathYear,Epitaph,FamilyPlot,Notes
 1,Example,Doe,1800,1850,"In loving memory",Example Plot,Test entry for demonstration
+2,Miller,John,1785,1850,"Beloved husband and father, faithful servant of the church",Miller Plot,"John Miller was a miller by trade, owning the local watermill. He served as church warden for 20 years."
+3,Miller,Mary,1790,1860,"In memory of a devoted wife and mother, her kindness remembered",Miller Plot,"Mary Miller (née Smith) was known for her charitable works in the parish. She outlived her husband by 10 years."
+4,Miller,Thomas,1815,1880,"A life of service to his community, taken too soon",Miller Plot,"Thomas Miller inherited the family mill. He was a town councillor and contributed to the restoration of the church roof."
